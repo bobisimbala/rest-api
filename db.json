@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "person" : [
     {
-      "id": 1,
-      "title": "hello"
+      "first_name" : "bobi",
+      "last_name" : "simbala"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
