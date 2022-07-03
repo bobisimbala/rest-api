@@ -1,6 +1,11 @@
-[
-  "people" : [
-    {"first_name" : "jhon","last_name":"khanedy"},
-    {"first_name" : "elisabeth","last_name":"dior"}
-  ]
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
