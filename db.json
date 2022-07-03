@@ -1,6 +1,6 @@
-{
+[
   "people" : [
-    "first_name" : "john",
-    "last_name" : "kannedy"
+    {"first_name" : "jhon","last_name":"khanedy"},
+    {"first_name" : "elisabeth","last_name":"dior"}
   ]
-}
+]
